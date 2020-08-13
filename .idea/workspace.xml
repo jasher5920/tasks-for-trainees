@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96659aa3-ecd1-4b53-bf1e-9fef7a8ef7ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/css/common.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Extrabold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Extrabold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Extrabold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Light.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Medium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Medium.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Gilroy-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/GothamPro.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/GothamPro.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/GothamPro.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/images/1.01ec9161.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/images/1.1108519d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/images/1.9f4d1e12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/images/article-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/images/article-item-bg-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/images/article-item-bg-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/images/article-item-bg-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/images/article-item-bg-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/images/article-item-bg-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/images/article-item-bg-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/images/favicon.604825ed.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/news-card.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tests.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/dev.site/include.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/dev.site/install/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/dev.site/install/version.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/dev.site/lib/Agents/Iblock.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/dev.site/lib/Handlers/Iblock.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +10,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
@@ -62,6 +33,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,7 +45,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -105,24 +76,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596790085277</updated>
-      <workItem from="1596790086570" duration="267000" />
+      <workItem from="1596790086570" duration="666000" />
+      <workItem from="1597294412006" duration="216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="267000" />
+    <option name="totallyTimeSpent" value="882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1002" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32997763" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -130,14 +97,25 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32997763" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/local/modules/dev.site/lib/Agents/Iblock.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
   </component>
 </project>
