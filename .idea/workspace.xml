@@ -41,11 +41,6 @@
               <item name="tasks-for-trainees" type="b2602c69:ProjectViewProjectNode" />
               <item name="tasks-for-trainees" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="tasks-for-trainees" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tasks-for-trainees" type="462c0819:PsiDirectoryNode" />
-              <item name="php_interface" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -88,7 +83,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="999000" />
+    <option name="totallyTimeSpent" value="1226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1002" extended-state="0" />
@@ -123,5 +118,13 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
